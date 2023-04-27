@@ -4,7 +4,7 @@
 
 * install python3
 * clone this repo
-* run ```main.py <WindTerm user.sessions file path> <output file path> <identity file path>`
+* run ``main.py <WindTerm user.sessions file path> <ssh|nextterminal> <output file path> <identity file path>``
 
 ## License
 
